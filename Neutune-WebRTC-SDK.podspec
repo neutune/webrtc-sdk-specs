@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "Neutune-WebRTC-SDK"
-  spec.version      = "0.0.10"
+  spec.version      = "0.0.11"
   spec.summary      = "Neutune's version of webrtc-sdk pod."
 
   spec.description  = <<-DESC
